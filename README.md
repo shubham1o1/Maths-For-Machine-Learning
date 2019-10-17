@@ -1,1 +1,1 @@
-- The directory **Some_Maths_Implementation** Contains implementation of introductory content on Linear Algebra, Calculus and Probability Theory in Python and R. 
+- The directory **Some_Maths_Implementation** Contains implementation of introductory content on *Linear Algebra, Calculus and Probability Theory* in Python and R. 
