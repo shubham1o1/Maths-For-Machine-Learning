@@ -1,2 +1,4 @@
 ### Maths for machine learning :
 This directory has 5 sub directory which contains python and R codes that implements maths for machine learning. It covers topics from **Linear Algebra, Multivariate Calculus and Probability Theory**. It is in the form, exactly as it was given in the online course. The course is available on the udemy by the name ["Mathematical Foundation For Machine Learning and AI"](https://www.udemy.com/course/mathematical-foundation-for-machine-learning-and-ai/). The course briefly touches many topics. I found the course to be inspiring as it prepares you to be able to look further on your own into the maths behind the machine learning algorithm.
+
+Since github isn't rendering the ipynb file here is the link to nbviewer : [Alternate Link](https://nbviewer.jupyter.org/github/shubham1o1/Maths-For-Machine-Learning/tree/master/Some_Maths_Implementation/)
